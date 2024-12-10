@@ -1,0 +1,6 @@
+[alias]
+	ll = log --oneline --decorate --graph --
+	logall = log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+	oops = commit --amend --no-edit
+	liste = log --pretty=format:'%h - %an : %s'
+	ll2 = log --pretty=oneline --until=3.hours
