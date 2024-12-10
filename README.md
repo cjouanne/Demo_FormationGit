@@ -3,8 +3,3 @@ modif pour branch
 <<<<<<< HEAD
 sdfjsdhfkjhsdjkjkdf
 sfdgdkjghjdfgjdhhgk
-=======
-###################
-###################
-
->>>>>>> branch1
